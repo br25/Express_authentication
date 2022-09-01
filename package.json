@@ -1,0 +1,25 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": "git+https://github.com/br25/ExpressMiddlewawrePractice.git",
+  "keywords": [],
+  "author": "br25 <md.ashrafulislamrobin12345@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/br25/ExpressMiddlewawrePractice/issues"
+  },
+  "homepage": "https://github.com/br25/ExpressMiddlewawrePractice#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
